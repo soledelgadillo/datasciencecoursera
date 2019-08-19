@@ -2,7 +2,7 @@
 title: "Hello World"
 author: "SoleDelgadillo"
 date: "8/19/2019"
-output: word_document
+output: md_document
 ---
 
 ## ## This is a markdown file
